@@ -1,0 +1,6 @@
+Aula 01
+- O que é Kotlin;
+- Como criar um projeto Kotlin gerenciado pelo Maven no IntelliJ;
+- A estrutura básica de um projeto Kotlin;
+- Como o Kotlin se relaciona com o código Java;
+- Como consumir uma API externa utilizando a biblioteca HTTP do Java.
